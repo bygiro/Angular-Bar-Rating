@@ -1,12 +1,12 @@
-# Angular directive: Ng-Recorder
+# Angular directive: Angular Bar Rating
 
-This is a directive for [angular](https://github.com/angular/angular.js) (based on [jQuery Recorder plugin](https://github.com/bygiro/jQuery-Recorder) project).
+This is a directive for [angular](https://github.com/angular/angular.js) (based on [jQuery Bar Rating plugin](https://github.com/antennaio/jquery-bar-rating) project).
 
 
 ### Install with Bower
 
 ```bash
-$ bower install angular ng-recorder --save
+$ bower install angular ng-bar-rating --save
 ```
 
 check the demo
