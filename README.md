@@ -6,7 +6,7 @@ This is a directive for [angular](https://github.com/angular/angular.js) (based 
 ### Install with Bower
 
 ```bash
-$ bower install angular ng-bar-rating --save
+$ bower install angular angular-bar-rating --save
 ```
 
 check the demo
